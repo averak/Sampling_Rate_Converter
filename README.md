@@ -9,3 +9,4 @@ Convert the sampling rate of audio files in .wav format.
 - Python 3.7
 - numpy 1.18.1
 - scipy 1.4.1
+- wave 0.0.2
